@@ -1,4 +1,4 @@
-###👋 Developing this area 👋
+👋 Developing this area 👋
 
 <!--
 **rafaelmelo2/rafaelmelo2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 I'm currently working on help desk at a Hospital Nasr Faiad Eirelli ; 
-📚 I'm currently learning Full-stack developer { JavaScript, Python, Html, Css } ;
+- 🔭 I'm currently working on help desk at a Hospital Nasr Faiad Eirelli ; 
+- 📚 I'm currently learning Full-stack developer { JavaScript, Python, Html, Css } ;
