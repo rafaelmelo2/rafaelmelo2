@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-###🔭 I'm currently working on help desk at a Hospital Nasr Faiad Eirelli
+🔭 I'm currently working on help desk at a Hospital Nasr Faiad Eirelli ; 
+📚 I'm currently learning Full-stack developer { JavaScript, Python, Html, Css } ;
