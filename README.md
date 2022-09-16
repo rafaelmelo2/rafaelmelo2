@@ -13,6 +13,7 @@
   <img align="center" alt="Fael-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <!--<img align="right" alt="Fael-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">-->
 </div>
-
-- 🔭 I'm currently working on help desk at a Hospital Nasr Faiad Eirelli 
-- 📚 I'm currently learning Full-stack developer { JavaScript, Python, Html, Css }
+<div>
+  - 🔭 I'm currently working on help desk at a Hospital Nasr Faiad Eirelli 
+  - 📚 I'm currently learning Full-stack developer { JavaScript, Python, Html, Css }
+</div>
