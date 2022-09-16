@@ -1,7 +1,7 @@
 # 👋 Developing this area 👋
 ## Hello World, my name is Rafael da Silva
 <div align="center">
-  <a href="https://github.com/rafaelmelo2">
+  <!--<a href="https://github.com/rafaelmelo2">-->
   <img height="175em" src="https://github-readme-stats.vercel.app/api?username=rafaelmelo2&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmelo2&layout=compact&langs_count=7&theme=dark"/>
 </div>
@@ -14,6 +14,6 @@
   <!--<img align="right" alt="Fael-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">-->
 </div>
 <div>
-  - 🔭 I'm currently working on help desk at a Hospital Nasr Faiad Eirelli 
-  - 📚 I'm currently learning Full-stack developer { JavaScript, Python, Html, Css }
+  <p> 🔭 I'm currently working on help desk at a <a href="https://www.hnf.com.br">Hospital Nasr Faiad Eirelli </a></p>
+  <p> 📚 I'm currently learning Full-stack developer { JavaScript, Python, Html, Css } </p>
 </div>
