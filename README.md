@@ -3,8 +3,8 @@
 
 <div align="center"style="display: inline_block">
   <!--<a href="https://www.linkedin.com/in/rafaelmelo2234">-->
-  <img align="center" alt="Fael-Linkedin"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
-  <img align="center" alt="Fael-Insta" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  <a href="https://www.linkedin.com/in/rafaelmelo2234"><img align="center" alt="Fael-Linkedin"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
+  <a href="https://www.instagram.com/_rafaelmelol/"><img align="center" alt="Fael-Insta" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
 
 <div align="center"><br>
