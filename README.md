@@ -1,6 +1,8 @@
 <!--# 👋 Developing this area 👋-->
 <div align="center">
-  ## Hello World, my name is Rafael da Silva
+  <h1 align="center"> Hello World, my name is Rafael da Silva </h1>
+  <br>
+  <br>
 </div>
 
 <div align="center"style="display: inline_block">
