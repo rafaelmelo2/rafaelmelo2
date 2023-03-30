@@ -29,5 +29,5 @@
 </div>
 <div><br>
   <p> 🔭 I'm currently working on help desk at a <a href="https://www.hnf.com.br">Hospital Nasr Faiad Eirelli </a></p>
-  <p> 📚 I'm currently learning Full-stack developer { JavaScript, Python, Html, Css } </p>
+  <p> 📚 I'm currently learning Back-end developer { JavaScript, Python } and a little Front-end { Html, Css }</p>
 </div>
