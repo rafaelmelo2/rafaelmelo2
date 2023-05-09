@@ -30,8 +30,8 @@
 
 
 ### Find me:
-[![Instagram](https://img.shields.io/badge/-Instagram-9370DB?style=for-the-badge&logo=instagram&logoColor=0D1117&labelColor=4B0082)](https://www.instagram.com/_rafaelmelol/)
-[![Twitter](https://img.shields.io/badge/-Twitter-9370DB?style=for-the-badge&logo=twitter&logoColor=0D1117&labelColor=4B0082)](https://twitter.com/Melorafael233/)
+[![Instagram](https://img.shields.io/badge/-Instagram-9370DB?style=for-the-badge&logo=instagram&logoColor=0D1117&labelColor=4B0082)](https://www.instagram.com/_rafaelmelol/?target=_blank)
+[![Twitter](https://img.shields.io/badge/-Twitter-9370DB?style=for-the-badge&logo=twitter&logoColor=0D1117&labelColor=4B0082)](https://twitter.com/Melorafael233/?target=_blank)
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=120&section=footer"/>
