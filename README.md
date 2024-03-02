@@ -26,8 +26,8 @@
 ### Studying in this moment:
 ![Java](https://img.shields.io/badge/-Java-9370DB?style=for-the-badge&logo=java&logoColor=0D1117&labelColor=4B0082)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-9370DB?style=for-the-badge&logo=javascript&logoColor=0D1117&labelColor=4B0082)
-![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white&labelColor=4B0082)
-![React Native](https://img.shields.io/badge/React_Native-0D1117?style=for-the-badge&logo=react&logoColor=4B0082)
+![Node](https://img.shields.io/badge/Node.js-9370DB?style=for-the-badge&logo=node.js&logoColor=black&labelColor=4B0082)
+![React Native](https://img.shields.io/badge/React_Native-9370DB?style=for-the-badge&logo=react&logoColor=black&labelColor=4B0082)
 
 
 
